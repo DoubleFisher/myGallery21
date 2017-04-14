@@ -15,6 +15,8 @@ public class GalleryActivity extends Activity {
 	private Gallery gallery = null;
 
 	private EditText edtv;
+
+	private String branch_function = "dev_1";
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
